@@ -1,6 +1,6 @@
 AFRAME.registerComponent("game-play", {
     schema: {
-      elementId: { type: "string", default: "#coin1" },      
+      elementId: { type: "string", default: "#coins1" },      
     },
     
     update: function() {
